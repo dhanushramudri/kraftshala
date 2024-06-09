@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",
-    "assert": "^2.1.1",
     "axios": "^1.4.0",
     "browserify-zlib": "^0.2.0",
     "https-browserify": "^1.0.0",
